@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules/
+
+# Local environment variables (keeps your database password safe!)
+.env
+.env.local
+backend/.env
+
+# Build files
+dist/
+build/
+.github/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Editor configurations & OS cache
+.vscode/
+.idea/
+Thumbs.db
+ehthumbs.db
+Desktop.ini
